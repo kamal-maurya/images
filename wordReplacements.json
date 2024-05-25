@@ -1,0 +1,38 @@
+
+{
+  "chinese": [
+    { "original": "apple", "replacement": "chinese","tag":["td"]},
+    { "original": "cat", "replacement": "chinese" },
+    { "original": "Republic107And106Annual", "replacement": "chinese" },
+    { "original": "the", "replacement": "chinese" },
+    { "original": "139.5.4","replacement": "4 May 2050"}
+    
+
+
+    
+    
+
+],
+
+  "spanish":[
+    { "original": "apple", "replacement": "spanish"},
+    { "original": "cat", "replacement": "spanish" }
+  
+    
+    
+    
+  ],
+
+
+
+  "korean": [
+
+    { "original": "apple", "replacement": "korean","tag":"td"},
+    { "original": "cat", "replacement": "korean" }
+   
+  ],
+  "japanese": [
+    { "original": "apple", "replacement": "japanese"},
+    { "original": "cat", "replacement": "japanese" }
+  ]
+}
